@@ -9,4 +9,4 @@
 ----------------------------------------------
 Usage of Conformal Decals is recommended.
 
-Simply drag the BDSM folder into your GameData folder and enjoy your Buran and Energia vehicles.
+Simply drag the BDSM folder into your GameData folder and enjoy your Buran and Energia decals.
