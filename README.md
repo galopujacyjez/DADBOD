@@ -9,4 +9,4 @@
 ----------------------------------------------
 Usage of Conformal Decals is recommended.
 
-Simply drag the BDSM folder into your GameData folder and enjoy your Buran and Energia decals.
+The contents of this decals set allow players to use historically accurate decals for Buran and Energia vehicles, but are in no way a reflection of the author's views.
