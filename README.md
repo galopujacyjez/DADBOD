@@ -1,5 +1,5 @@
 # BDSM
-## BDSM stands for the "Buran Decal Set by Maks" - a carefully curated collection of Energia-Buran flag decals for KSP.
+## The "Buran Decal Set by Maks" is a carefully curated collection of Energia-Buran flag decals for KSP.
 ### Included are decals for the following:
 - Buran (also early "Baikal" livery)
 - Burya
